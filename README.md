@@ -22,3 +22,6 @@ A Python-based clipboard monitoring tool that detects and replaces cryptocurrenc
    ```bash
    git clone https://github.com/yourusername/crypto-clipper.git
    cd crypto-clipper
+
+
+# Showcase
