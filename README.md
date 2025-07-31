@@ -25,3 +25,6 @@ A Python-based clipboard monitoring tool that detects and replaces cryptocurrenc
 
 
 # Showcase
+
+https://github.com/user-attachments/assets/edcd32f8-5ae3-41d9-af97-252c16ead7e2
+
