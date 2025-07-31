@@ -28,3 +28,18 @@ A Python-based clipboard monitoring tool that detects and replaces cryptocurrenc
 
 https://github.com/user-attachments/assets/edcd32f8-5ae3-41d9-af97-252c16ead7e2
 
+# donations
+solana 
+2WvAkaXAQZSQ6B9MDEThhhT2yQNVEcw6m5vbMgMtk3Tv
+
+polygon
+0xf78dce76E86d21F41FB51d407e2d1c3c7133505a
+
+eth
+0xf78dce76E86d21F41FB51d407e2d1c3c7133505a
+
+btc
+bc1q8u3h8c45hd0mf74d8xn309ssapqc6zxh922fwl
+
+litecoin
+LfhS8tpgxY59TUnjybJCYmJMHa3BeUaASQ 
